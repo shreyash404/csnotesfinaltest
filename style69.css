@@ -110,7 +110,7 @@ span{
   left: 80%;
 }
 .menu-right ul{
-  width: 17rem;
+  width: 18.4rem;
 }
 .menu-item {
   display: flex;
@@ -132,7 +132,7 @@ span{
 }
 .dropdown-right:hover .menu-right {
   left: 100%;
-  width: 17rem;
+  width: 18.4rem;
   opacity: 1;
   visibility: visible;
 }
