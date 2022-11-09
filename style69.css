@@ -96,7 +96,7 @@ span{
 .menu-right {
   position: absolute;
   background: #000000;
-  width: 11rem;
+  width: 12rem;
   top: 20px;
   left: 0%;
   opacity: 0;
@@ -110,7 +110,7 @@ span{
   left: 80%;
 }
 .menu-right ul{
-  width: 18.4rem;
+  width: 17rem;
 }
 .menu-item {
   display: flex;
@@ -132,7 +132,7 @@ span{
 }
 .dropdown-right:hover .menu-right {
   left: 100%;
-  width: 18.4rem;
+  width: 17rem;
   opacity: 1;
   visibility: visible;
 }
